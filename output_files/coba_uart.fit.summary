@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Nov 16 10:42:59 2021
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : coba_uart
+Top-level Entity Name : coba_uart
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 201 / 6,272 ( 3 % )
+    Total combinational functions : 188 / 6,272 ( 3 % )
+    Dedicated logic registers : 142 / 6,272 ( 2 % )
+Total registers : 142
+Total pins : 4 / 92 ( 4 % )
+Total virtual pins : 0
+Total memory bits : 8,192 / 276,480 ( 3 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

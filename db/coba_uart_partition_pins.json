@@ -1,0 +1,25 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "usb_rs232_txd",
+					"strict" : false
+				},
+				{
+					"name" : "clock_y3",
+					"strict" : false
+				},
+				{
+					"name" : "user_reset",
+					"strict" : false
+				},
+				{
+					"name" : "usb_rs232_rxd",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
